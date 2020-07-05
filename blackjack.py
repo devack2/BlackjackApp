@@ -179,5 +179,6 @@ player_hand = []
 
 new_game()
 
+# Need To add additional functionality ( To Do Items)
 
 mainWindow.mainloop()
